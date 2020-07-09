@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - MMMaterialDesignSpinner (0.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MMMaterialDesignSpinner
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MMMaterialDesignSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  MMMaterialDesignSpinner: a548042720c2e5f04212048483085d7942ac3e81
+
+PODFILE CHECKSUM: 3c41e60c02660e49055d2cf4eae06fedc454ed2f
+
+COCOAPODS: 1.8.4
